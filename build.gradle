@@ -25,6 +25,9 @@ dependencies {
     implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
 
 }
+dependencies {
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.0'
+}
 
 buildDir = 'build'
 
